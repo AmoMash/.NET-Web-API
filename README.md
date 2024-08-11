@@ -1,6 +1,9 @@
 # CMPG-323-Project-2-34204792
 This project is designed to manage telemetry data using a .NET Web API connected to a SQL Server database.
 
+## Where are the porject files
+- They are in the master branch
+
 ## How to Use the Report
 - The report can be accessed via the API endpoints described below.
 - Ensure you have the necessary credentials and access rights to use the API.
