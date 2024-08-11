@@ -1,6 +1,0 @@
-@TelemetryAPI_3420_HostAddress = http://localhost:5080
-
-GET {{TelemetryAPI_3420_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
