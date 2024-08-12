@@ -9,7 +9,7 @@ This project is designed to manage telemetry data using a .NET Web API connected
 
 ## Authentication
 
--The endpoints do not have authentication
+- The endpoints do not have authentication
 
 ## API Endpoints
 - `GET /api/telemetry` - Retrieve all telemetry entries.
