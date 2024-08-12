@@ -5,22 +5,11 @@ This project is designed to manage telemetry data using a .NET Web API connected
 - They are in the master branch
 
 ## How to Use the Report
-- The report can be accessed via the API endpoints described below.
-- Ensure you have the necessary credentials and access rights to use the API.
+- The report can be accessed via the API endpoints described below
 
 ## Authentication
 
-To access protected endpoints, you need to authenticate using JWT. Obtain a token by making a GET request to the authentication endpoint.
-
-**GET** `/api/authenticate`
-
-- **Description**: Authenticate and obtain a JWT token.
-- **Request Body**:
-  ```json
-  {
-    "username": "your_username",
-    "password": "your_password"
-  }
+-The endpoints do not have authentication
 
 ## API Endpoints
 - `GET /api/telemetry` - Retrieve all telemetry entries.
