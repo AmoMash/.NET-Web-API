@@ -1,4 +1,4 @@
-# CMPG-323-Project-2-34204792
+# .NET-WEB-API
 This project is designed to manage telemetry data using a .NET Web API connected to a SQL Server database.
 
 ## Where are the porject files
